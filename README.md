@@ -5,10 +5,10 @@ A simple **Flappy Bird clone** built using **Python** and **Pygame**. The goal i
 ---
 
 ##  Features  
-✅ Smooth gameplay with collision detection  
-✅ Classic Flappy Bird physics  
-✅ Score tracking system  
-✅ Fun sound effects  
+ Smooth gameplay with collision detection  
+ Classic Flappy Bird physics  
+ Score tracking system  
+ Fun sound effects  
 
 ---
 
