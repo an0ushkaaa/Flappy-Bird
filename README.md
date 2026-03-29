@@ -1,10 +1,10 @@
-# 🕹️ Flappy Bird Game  
+#  Flappy Bird Game  
 
 A simple **Flappy Bird clone** built using **Python** and **Pygame**. The goal is to navigate the bird through gaps between pipes without hitting them.  
 
 ---
 
-## 🎮 Features  
+##  Features  
 ✅ Smooth gameplay with collision detection  
 ✅ Classic Flappy Bird physics  
 ✅ Score tracking system  
@@ -12,32 +12,27 @@ A simple **Flappy Bird clone** built using **Python** and **Pygame**. The goal i
 
 ---
 
-## 📂 Project Files  
+##  Project Files  
 - `flappy.py` → Main game script  
 - `assets/` → Folder containing game images & sounds  
 - `README.md` → Project documentation  
 
 ---
 
-## 🚀 How to Run  
+##  How to Run  
 
-### **1️⃣ Install Requirements**  
+### ** Install Requirements**  
 Make sure Python and Pygame are installed.  
 ```bash
 pip install pygame
 ```
 
-### **2️⃣ Run the Game**  
+### ** Run the Game**  
 ```bash
 python flappy.py
 ```
 
 ---
-
-## 🎯 How to Play  
-- **Press SPACE** to make the bird flap  
-- **Avoid pipes** and keep flying  
-- **Score points** by passing through gaps  
 
 ---
 
